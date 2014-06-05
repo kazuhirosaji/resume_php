@@ -135,7 +135,7 @@ while ($row = mysql_fetch_assoc($result)) {
             <hr>
 
             <footer>
-              <p>&copy; SLOGAN, Inc. 2012</p>
+                <p>&copy; SLOGAN, Inc. <?php echo date('Y')?></p>
             </footer>
 
         </div><!--/.fluid-container-->

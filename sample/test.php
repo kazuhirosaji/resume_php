@@ -10,20 +10,20 @@
 
 $tweets = array(
 	array(
+		'username' => 'ikuwow',
+		'created' => '2014-06-10 17:49', 'content' => 'うう( ́・ω・`)'
+	),
+	array(
+		'username' => 'kanou',
+		'created' => '2014-06-10 16:49', 'content' => 'ikuwowさん、仕事して下さい'
+	),
+	array(
 		'username' => 'torii',
-		'created' => '2012-06-10 17:49', 'content' => 'うう( ́・ω・`)'
+		'created' => '2014-06-10 15:49', 'content' => 'わーい！'
 	),
 	array(
 		'username' => 'hasebe',
-		'created' => '2012-06-10 16:49', 'content' => 'toriiさん、仕事してください'
-	),
-	array(
-		'username' => 'torii',
-		'created' => '2012-06-10 15:49', 'content' => '遊んでるなう'
-	),
-	array(
-		'username' => 'hasebe',
-		'created' => '2012-06-10 14:49', 'content' => 'Goodfind􏰀セミナーなう'
+		'created' => '2014-06-10 14:49', 'content' => 'Goodfindのセミナーなう'
 	),
 );
 
