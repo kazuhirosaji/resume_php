@@ -27,14 +27,9 @@ $tweets = array(
 	),
 );
 
-for ($i = 0; $i < count($tweets); $i++) {
-	echo $tweets[$i]['username'] . "<br>";
-	echo $tweets[$i]['content'] . "<br>";
-	echo $tweets[$i]['created'] . "<br>";
-	echo "<hr>";
-}
-
 ?>
+
+<p>for文の演習</p>
 
 
     </body>
